@@ -1,0 +1,2 @@
+Prefix plugins/PCMCI/example
+Plugin PCMCI inputfile ts_network.tsv outputfile none
