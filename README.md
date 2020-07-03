@@ -2,7 +2,8 @@
 # Language: Python
 # Input: TSV
 # Output: none (screen only)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: tigramite==4.1
 
 PluMA plugin to run PCMCI (Runge et al, 2019), performing 
 causal analysis on time-series data.
