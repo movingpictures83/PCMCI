@@ -1,0 +1,3 @@
+numpy
+rpy2
+tigramite
